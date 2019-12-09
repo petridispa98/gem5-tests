@@ -1,0 +1,5 @@
+sim_seconds                                  0.514664
+system.cpu.cpi                               10.293277
+system.l2.overall_miss_rate::total           0.999984
+system.cpu.icache.overall_miss_rate::total     0.000019
+system.cpu.dcache.overall_miss_rate::total     0.122943 
